@@ -1,0 +1,17 @@
+.header {
+  height: 10vh;
+  background-color: black;
+  display: flex;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn {
+  color: white;
+  border: 1px solid white;
+  height: 50px;
+  width: 120px;
+  background-color: black;
+}

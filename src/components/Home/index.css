@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(44, 44, 87);
+  height: 90vh;
+  flex-direction: column;
+  color: white;
+}
